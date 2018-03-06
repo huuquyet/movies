@@ -46,15 +46,15 @@
         "source": {
             "type": "git",
             "url": "https://github.com/Codeinwp/full-width-page-templates.git",
-            "reference": "606569bcbd870ad02d220e0e8302cdf38d984e99"
+            "reference": "770990cf96bd9cb6b8c846b1c9bff16450e2dff9"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/Codeinwp/full-width-page-templates/zipball/606569bcbd870ad02d220e0e8302cdf38d984e99",
-            "reference": "606569bcbd870ad02d220e0e8302cdf38d984e99",
+            "url": "https://api.github.com/repos/Codeinwp/full-width-page-templates/zipball/770990cf96bd9cb6b8c846b1c9bff16450e2dff9",
+            "reference": "770990cf96bd9cb6b8c846b1c9bff16450e2dff9",
             "shasum": ""
         },
-        "time": "2018-01-23 14:34:54",
+        "time": "2018-03-02 08:33:03",
         "type": "library",
         "installation-source": "dist",
         "autoload": {
